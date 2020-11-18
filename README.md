@@ -2,6 +2,8 @@
 
 Este curso te ayudará a **aprender Estadística desde cero**, de manera teórica y práctica. No usaremos ningún software, por eso te enseñaré lo que hay detrás de cada concepto, la relación entre todos los temas, y cómo hacer todas las cosas por ti mismo sin necesidad de una función que ya viene programada y no sabemos lo que está haciendo por dentro. 
 
+Enlace al curso: https://www.udemy.com/course/curso-completo-de-estadistica-a-nivel-universitario/?referralCode=5A1CC426596B6A1496B3
+
 Es fundamental entender todas estas cosas como lo enfoco en el curso, porque en la práctica muchas veces tenemos que usar funciones que tienen parámetros por defecto, y según nuestro problema quizás las debemos cambiar o usar un método diferente, y la única manera de aprender a hacerlo correctamente es sabiendo lo que hay por detrás.
 
 Así que este curso es ideal tanto si eres **estudiante universitario** y tienes problemas con la asignatura de Estadística, o no tienes tiempo de ir a clase y tienes dificultades para estudiar por tu cuenta, como si necesitas **recordar, aprender o ejercitar los conceptos** de una manera sencilla, rápida y amena. 
